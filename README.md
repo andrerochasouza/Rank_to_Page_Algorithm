@@ -2,7 +2,7 @@
 
 Esse algoritmo tem como proposta, ranquear/posicionar os nós mais relevantes para um grafo, de acordo com a quantidade de arestas que eles possuem e suas respectativas relevâncias.
 
-Tendo como base o algoritmo PageRank de Stanford, criado por Larry Page, co-fundador da Google. [PageRank](https://en.wikipedia.org/wiki/PageRank).
+Tendo como base o algoritmo [PageRank](https://en.wikipedia.org/wiki/PageRank)  de Stanford, criado por Larry Page, co-fundador da Google.
 
 ----------------
 ## Imagens
