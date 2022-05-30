@@ -10,15 +10,15 @@ Tendo como base o algoritmo [PageRank](https://en.wikipedia.org/wiki/PageRank)  
 
 ### Grafo de exemplo
 
-<img src="grafo.png">
+<img src="rank_to_page\img\grafo.PNG">
 
 ### Matriz de adjacência do grafo
 
-<img src="matriz_grafo.png">
+<img src="rank_to_page\img\matriz_grafo.PNG">
 
 ### Grafo com nós ranqueados pelo tamanho da sua área
 
-<img src="grafo_resultado.png">
+<img src="rank_to_page\img\grafo_resultado.PNG">
 
 ----------------
 
